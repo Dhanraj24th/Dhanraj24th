@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhanraj24th
+- 👋 Hi, I’m Dhanraj chavan here
 - 👀 I’m interested in learn New things that ignits me and Sparks me
 - 🌱 I’m currently learning full stack development so that my stack of knowledge always full 
 - 💞️ I’m looking to collaborate on new oportunities that can be anything
